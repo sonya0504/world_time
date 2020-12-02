@@ -1,0 +1,4 @@
+#Fri Nov 13 12:14:27 CET 2020
+base.0=/home/oem/projects/world_time/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

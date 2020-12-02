@@ -1,0 +1,4 @@
+#Fri Nov 13 13:02:55 CET 2020
+base.0=/home/oem/projects/world_time/build/app/intermediates/transforms/r8/release/0/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
